@@ -1,0 +1,6 @@
+git init:- to initialize 
+git add :- to add a file in git
+git status :- to check status
+git log :- manages changes
+git commit -m:- act as checkpoint
+
